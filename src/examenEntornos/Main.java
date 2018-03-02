@@ -3,6 +3,11 @@ package examenEntornos;
 
 
 
+/**
+ * clase main
+ * @author ik012982i9
+ *
+ */
 public class Main {
 
 	/**
